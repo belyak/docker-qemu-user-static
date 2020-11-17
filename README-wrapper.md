@@ -1,5 +1,5 @@
 ## Usage
-This fork adds script to register qemu with binfmt right from the clones repository with a single command:
+This fork adds script to register qemu with binfmt right from the cloned repository in one command:
 ```
 ./qemu-user-static-wrapper.sh [enable]
 ```
